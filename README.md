@@ -1,9 +1,9 @@
 # Backend Development Fundamentals (BDF) - Lab Repository
 
-**Student Name:** PYNENI PREETHAM CHOWDARY  
-**Registration Number:** 252U1R1208  
-**Section:** CSE-2D & 214(S-19)  
-**Faculty:** Sai Siva Teja Chintakrindi  
+**Student Name:** Yarraballi Sraavan  
+**Registration Number:** 252U1R1264  
+**Section:** CSE-2E & 211(S-16)  
+**Faculty:** YUGUNDHAR  
 **Course:** Backend Development Fundamentals (Year II Term II)
 
 ---
@@ -13,7 +13,7 @@
 This repository contains lab assignments for the Backend Development Fundamentals course, organized into individual lab directories:
 
 ```text
-Preetham1208_BDF-LAB01-/
+BDF-LAB01-/
 │
 ├── .gitignore
 ├── README.md

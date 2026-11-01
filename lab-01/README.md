@@ -1,16 +1,16 @@
 # Lab 1: Node.js and Express server
 
 **Course:** Backend Development Fundamentals (Year II Term II)  
-**Faculty:** Sai Siva Teja Chintakrindi  
+**Faculty:** YUGUNDHAR  
 **Department:** Computer Science & Engineering  
 
 ---
 
 ## Student Details
 
-- **Name:** PYNENI PREETHAM CHOWDARY
-- **Registration Number:** 252U1R1208
-- **Section:** CSE-2D & 214(S-19)
+- **Name:** Yarraballi Sraavan
+- **Registration Number:** 252U1R1264
+- **Section:** CSE-2E & 211(S-16)
 
 ---
 
@@ -46,7 +46,7 @@ As part of the initial `npm init` setup, the `package.json` file serves as the m
 - **`main`**: The primary entry point file of the application (`"server.js"`).
 - **`scripts`**: Command-line shortcuts; `"start": "node server.js"` allows launching the server via `npm start`.
 - **`keywords`**: Search tags describing the application for package registries.
-- **`author`**: Identifies the student/author of the project (`"PYNENI PREETHAM CHOWDARY"`).
+- **`author`**: Identifies the student/author of the project (`"Yarraballi Sraavan"`).
 - **`license`**: Specifies the open-source license governing usage (`"ISC"`).
 - **`dependencies`**: Lists external production packages required to run the server (e.g., `"express": "^4.21.2"`).
 
@@ -67,12 +67,12 @@ Follow these steps to set up the project locally:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/preethampyneni/Preetham1208_BDF-LAB01-.git
+   git clone https://github.com/sraavan09-cmd/BDF-LAB01-.git
    ```
 
 2. Open the project folder and navigate to the `lab-01` directory:
    ```bash
-   cd Preetham1208_BDF-LAB01-/lab-01
+   cd BDF-LAB01-/lab-01
    ```
 
 3. Install all required dependencies:
@@ -136,9 +136,9 @@ http://localhost:3000/
 - **GET `/about`**
   ```json
   {
-    "name": "PYNENI PREETHAM CHOWDARY",
-    "registrationNumber": "252U1R1208",
-    "section": "CSE-2D & 214(S-19)"
+    "name": "Yarraballi Sraavan",
+    "registrationNumber": "252U1R1264",
+    "section": "CSE-2E & 211(S-16)"
   }
   ```
 

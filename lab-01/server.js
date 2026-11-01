@@ -1,9 +1,10 @@
 /**
  * Lab 1: Node.js and Express Server
  * Course: Backend Development Fundamentals
- * Student Name: PYNENI PREETHAM CHOWDARY
- * Registration Number: 252U1R1208
- * Section: CSE-2D & 214(S-19)
+ * Student Name: Yarraballi Sraavan
+ * Registration Number: 252U1R1264
+ * Section: CSE-2E & 211(S-16)
+ * Faculty: YUGUNDHAR
  */
 
 // Step 1: Import the Express library
@@ -34,9 +35,9 @@ app.get('/', (req, res) => {
  */
 app.get('/about', (req, res) => {
   res.status(200).json({
-    name: 'PYNENI PREETHAM CHOWDARY',
-    registrationNumber: '252U1R1208',
-    section: 'CSE-2D & 214(S-19)'
+    name: 'Yarraballi Sraavan',
+    registrationNumber: '252U1R1264',
+    section: 'CSE-2E & 211(S-16)'
   });
 });
 
